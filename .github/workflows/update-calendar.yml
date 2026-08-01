@@ -29,12 +29,17 @@ jobs:
           SOURCE_ICS_URL: ${{ secrets.SCOUTBOOK_ICS_URL }}
         run: |
           mkdir -p docs
-          python3 fix_ics_timezone.py "$SOURCE_ICS_URL" docs/troop52-calendar.ics
+          # Correct RFC 5545 feed -- use this one for personal calendar subscriptions
+          # (phone, laptop, Outlook, Google Calendar, etc.)
+          python3 fix_ics_timezone.py "$SOURCE_ICS_URL" docs/troop52-calendar.ics --mode tzid
+          # GoDaddy-compatible feed -- use ONLY this one in the GoDaddy website Calendar
+          # widget, since GoDaddy's parser does not handle TZID/VTIMEZONE correctly.
+          python3 fix_ics_timezone.py "$SOURCE_ICS_URL" docs/troop52-calendar-godaddy.ics --mode godaddy
 
-      - name: Commit updated calendar file
+      - name: Commit updated calendar files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/troop52-calendar.ics
-          git diff --quiet --cached || git commit -m "Update corrected calendar feed"
+          git add docs/troop52-calendar.ics docs/troop52-calendar-godaddy.ics
+          git diff --quiet --cached || git commit -m "Update corrected calendar feeds"
           git push
