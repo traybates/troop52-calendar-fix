@@ -125,9 +125,21 @@ def fix_ics(source_text: str, tzid: str = LOCAL_TZID_DEFAULT, mode: str = "tzid"
     lines = source_text.splitlines()
     out_lines = []
     inserted_vtimezone = False
+    inserted_calendar_props = False
 
     for line in lines:
         stripped = line.rstrip("\r\n")
+
+        # Right after CALSCALE (top of the VCALENDAR block), add calendar-level
+        # properties some importers -- notably GoDaddy's -- have been reported
+        # to require: METHOD:PUBLISH and X-WR-TIMEZONE. Neither was present in
+        # the original Scoutbook Plus feed.
+        if not inserted_calendar_props and stripped.startswith("CALSCALE:"):
+            out_lines.append(stripped)
+            out_lines.append("METHOD:PUBLISH")
+            out_lines.append(f"X-WR-TIMEZONE:{tzid}")
+            inserted_calendar_props = True
+            continue
 
         if mode == "tzid":
             if not inserted_vtimezone and stripped.startswith("BEGIN:VEVENT"):
