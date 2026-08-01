@@ -89,7 +89,39 @@ def convert_line(line: str, tzid: str) -> str:
     return f"{field};TZID={tzid}:{local_str}"
 
 
-def fix_ics(source_text: str, tzid: str = LOCAL_TZID_DEFAULT) -> str:
+def convert_line_godaddy(line: str, tzid: str) -> str:
+    """
+    Like convert_line, but instead of tagging the corrected local time with
+    TZID (which GoDaddy's simple calendar widget appears unable to parse --
+    it silently drops every event rather than erroring), this re-emits the
+    corrected local wall-clock time with a bare 'Z' suffix, exactly like the
+    original buggy feed. This is intentionally "mislabeled" UTC: it is not
+    correct for real calendar apps (Apple/Google/Outlook would convert it
+    again and get the wrong time), but it is exactly what GoDaddy's widget
+    needs, since GoDaddy takes the raw digits at face value.
+    Use this output only for the GoDaddy website feed -- use the proper
+    TZID-tagged output (mode="tzid") for anything people subscribe to
+    personally.
+    """
+    line = line.rstrip("\r\n")
+    m = UTC_DT_RE.match(line)
+    if not m:
+        return line
+
+    field, existing_params, ts = m.groups()
+    utc_dt = datetime.strptime(ts, "%Y%m%dT%H%M%S").replace(tzinfo=timezone.utc)
+    local_dt = utc_dt.astimezone(ZoneInfo(tzid))
+    local_str = local_dt.strftime("%Y%m%dT%H%M%S")
+    return f"{field}:{local_str}Z"
+
+
+def fix_ics(source_text: str, tzid: str = LOCAL_TZID_DEFAULT, mode: str = "tzid") -> str:
+    """
+    mode="tzid": proper RFC 5545 output with VTIMEZONE + TZID (correct
+        everywhere; use for personal calendar subscriptions).
+    mode="godaddy": bare-Z output with times pre-shifted to already be local
+        (only correct when consumed by GoDaddy's simple widget).
+    """
     lines = source_text.splitlines()
     out_lines = []
     inserted_vtimezone = False
@@ -97,13 +129,13 @@ def fix_ics(source_text: str, tzid: str = LOCAL_TZID_DEFAULT) -> str:
     for line in lines:
         stripped = line.rstrip("\r\n")
 
-        # Insert VTIMEZONE right after VERSION/PRODID/CALSCALE/METHOD, before
-        # the first VEVENT, so it's declared once per file.
-        if not inserted_vtimezone and stripped.startswith("BEGIN:VEVENT"):
-            out_lines.extend(VTIMEZONE_CHICAGO.strip("\n").splitlines())
-            inserted_vtimezone = True
-
-        out_lines.append(convert_line(stripped, tzid))
+        if mode == "tzid":
+            if not inserted_vtimezone and stripped.startswith("BEGIN:VEVENT"):
+                out_lines.extend(VTIMEZONE_CHICAGO.strip("\n").splitlines())
+                inserted_vtimezone = True
+            out_lines.append(convert_line(stripped, tzid))
+        else:
+            out_lines.append(convert_line_godaddy(stripped, tzid))
 
     return "\r\n".join(out_lines) + "\r\n"
 
@@ -113,10 +145,13 @@ def main():
     parser.add_argument("source", help="Source .ics URL or file path (raw Scoutbook Plus link)")
     parser.add_argument("output", help="Path to write the corrected .ics file")
     parser.add_argument("--tz", default=LOCAL_TZID_DEFAULT, help="IANA timezone name (default: America/Chicago)")
+    parser.add_argument("--mode", choices=["tzid", "godaddy"], default="tzid",
+                         help="'tzid' = correct RFC 5545 output for personal calendar apps; "
+                              "'godaddy' = bare-Z output pre-shifted for GoDaddy's simple widget")
     args = parser.parse_args()
 
     source_text = fetch_source(args.source)
-    fixed_text = fix_ics(source_text, args.tz)
+    fixed_text = fix_ics(source_text, args.tz, mode=args.mode)
 
     with open(args.output, "w", encoding="utf-8", newline="") as f:
         f.write(fixed_text)
