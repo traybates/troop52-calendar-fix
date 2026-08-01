@@ -1,1 +1,40 @@
+name: Fix Troop 52 Calendar Timezone
 
+on:
+  schedule:
+    # Runs every 30 minutes. Adjust cron as needed (this is UTC time, cron syntax).
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  fix-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests tzdata
+
+      - name: Run fixer
+        env:
+          SOURCE_ICS_URL: ${{ secrets.SCOUTBOOK_ICS_URL }}
+        run: |
+          mkdir -p docs
+          python3 fix_ics_timezone.py "$SOURCE_ICS_URL" docs/troop52-calendar.ics
+
+      - name: Commit updated calendar file
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/troop52-calendar.ics
+          git diff --quiet --cached || git commit -m "Update corrected calendar feed"
+          git push
