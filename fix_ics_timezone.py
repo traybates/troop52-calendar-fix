@@ -120,7 +120,12 @@ def fix_ics(source_text: str, tzid: str = LOCAL_TZID_DEFAULT, mode: str = "tzid"
     mode="tzid": proper RFC 5545 output with VTIMEZONE + TZID (correct
         everywhere; use for personal calendar subscriptions).
     mode="godaddy": bare-Z output with times pre-shifted to already be local
-        (only correct when consumed by GoDaddy's simple widget).
+        (only correct when consumed by GoDaddy's simple widget). Deliberately
+        does NOT add METHOD:PUBLISH or X-WR-TIMEZONE -- testing showed the
+        original (property-free) Scoutbook feed is the only version that has
+        ever parsed successfully on this specific GoDaddy widget, so this
+        mode stays as close to that baseline as possible, changing only the
+        DTSTART/DTEND values.
     """
     lines = source_text.splitlines()
     out_lines = []
@@ -130,18 +135,13 @@ def fix_ics(source_text: str, tzid: str = LOCAL_TZID_DEFAULT, mode: str = "tzid"
     for line in lines:
         stripped = line.rstrip("\r\n")
 
-        # Right after CALSCALE (top of the VCALENDAR block), add calendar-level
-        # properties some importers -- notably GoDaddy's -- have been reported
-        # to require: METHOD:PUBLISH and X-WR-TIMEZONE. Neither was present in
-        # the original Scoutbook Plus feed.
-        if not inserted_calendar_props and stripped.startswith("CALSCALE:"):
-            out_lines.append(stripped)
-            out_lines.append("METHOD:PUBLISH")
-            out_lines.append(f"X-WR-TIMEZONE:{tzid}")
-            inserted_calendar_props = True
-            continue
-
         if mode == "tzid":
+            if not inserted_calendar_props and stripped.startswith("CALSCALE:"):
+                out_lines.append(stripped)
+                out_lines.append("METHOD:PUBLISH")
+                out_lines.append(f"X-WR-TIMEZONE:{tzid}")
+                inserted_calendar_props = True
+                continue
             if not inserted_vtimezone and stripped.startswith("BEGIN:VEVENT"):
                 out_lines.extend(VTIMEZONE_CHICAGO.strip("\n").splitlines())
                 inserted_vtimezone = True
