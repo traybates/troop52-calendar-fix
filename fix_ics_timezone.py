@@ -58,6 +58,44 @@ END:VTIMEZONE
 
 UTC_DT_RE = re.compile(r'^(DTSTART|DTEND)(;[^:]*)?:(\d{8}T\d{6})Z$')
 
+# A valid new content-line starts with a property name (optionally with
+# ;params) followed by a colon, e.g. "DESCRIPTION:foo" or "DTSTART;TZID=...:...".
+PROPLINE_RE = re.compile(r'^[A-Za-z0-9-]+(;[^:]*)?:')
+
+
+def repair_line_folding(text: str) -> str:
+    """
+    Repairs a real defect found in the Scoutbook Plus export: some DESCRIPTION
+    values contain raw, unescaped newlines in the middle of a sentence instead
+    of the proper "\\n" escape sequence used everywhere else in the file. Lenient
+    parsers (Apple/Google's live calendar renderer, Python's icalendar library)
+    tolerate this, but stricter parsers -- notably Google Calendar's file-import
+    feature -- fail on it entirely, reporting "Imported 0 out of 0 events"
+    because the malformed structure breaks parsing of the whole file.
+
+    This scans line by line: a line is either (a) a valid RFC 5545 folded
+    continuation (starts with a space/tab -- unfolded per spec), (b) a valid
+    new content line (matches PROPNAME:value), or (c) a stray broken line,
+    which is repaired by joining it to the previous line with an escaped
+    "\\n" so the value becomes syntactically valid again.
+    """
+    lines = text.splitlines()
+    out = []
+    for line in lines:
+        if line.startswith((" ", "\t")):
+            if out:
+                out[-1] += line[1:]
+            else:
+                out.append(line[1:])
+        elif PROPLINE_RE.match(line) or line.startswith(("BEGIN:", "END:")):
+            out.append(line)
+        else:
+            if out:
+                out[-1] += "\\n" + line
+            else:
+                out.append(line)
+    return "\r\n".join(out) + "\r\n"
+
 
 def fetch_source(source: str) -> str:
     """Read source ICS from a URL or local file path."""
@@ -163,6 +201,7 @@ def main():
     args = parser.parse_args()
 
     source_text = fetch_source(args.source)
+    source_text = repair_line_folding(source_text)
     fixed_text = fix_ics(source_text, args.tz, mode=args.mode)
 
     with open(args.output, "w", encoding="utf-8", newline="") as f:
