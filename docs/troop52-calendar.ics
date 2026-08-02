@@ -25,7 +25,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:6371650@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250419T223416Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250807T190000
@@ -37,7 +37,7 @@ LOCATION:VIA ZOOM
 END:VEVENT
 BEGIN:VEVENT
 UID:6371651@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250419T223416Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250904T190000
@@ -49,7 +49,7 @@ LOCATION:VIA ZOOM
 END:VEVENT
 BEGIN:VEVENT
 UID:6371652@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250419T223416Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251002T190000
@@ -61,7 +61,7 @@ LOCATION:VIA ZOOM
 END:VEVENT
 BEGIN:VEVENT
 UID:6371653@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250419T223416Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251106T190000
@@ -73,7 +73,7 @@ LOCATION:VIA ZOOM
 END:VEVENT
 BEGIN:VEVENT
 UID:6371654@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250419T223416Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251204T190000
@@ -85,7 +85,7 @@ LOCATION:VIA ZOOM
 END:VEVENT
 BEGIN:VEVENT
 UID:6371659@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250419T224325Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250814T190000
@@ -97,7 +97,7 @@ LOCATION:Westlake Hills Presbyterian Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6371660@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250419T224325Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250911T190000
@@ -109,7 +109,7 @@ LOCATION:Westlake Hills Presbyterian Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6371661@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250419T224325Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251009T190000
@@ -121,7 +121,7 @@ LOCATION:Westlake Hills Presbyterian Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6371662@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250419T224325Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251113T190000
@@ -133,7 +133,7 @@ LOCATION:Westlake Hills Presbyterian Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6371663@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250419T224325Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251211T190000
@@ -145,7 +145,7 @@ LOCATION:Westlake Hills Presbyterian Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6446359@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250804T190000
@@ -157,7 +157,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446361@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250818T190000
@@ -169,7 +169,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446362@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250825T190000
@@ -181,7 +181,7 @@ LOCATION:Lakeway Church - Chapel
 END:VEVENT
 BEGIN:VEVENT
 UID:6446364@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250908T190000
@@ -193,7 +193,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446365@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250915T190000
@@ -205,7 +205,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446367@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250929T190000
@@ -217,7 +217,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446368@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251006T190000
@@ -229,7 +229,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446371@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251027T190000
@@ -241,7 +241,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446372@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251103T190000
@@ -253,7 +253,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446373@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251110T190000
@@ -265,7 +265,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446376@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251201T190000
@@ -277,7 +277,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446377@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251208T190000
@@ -289,7 +289,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446382@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260112T190000
@@ -301,7 +301,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446384@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260126T190000
@@ -313,7 +313,7 @@ LOCATION:Lakeway Church - Upstairs
 END:VEVENT
 BEGIN:VEVENT
 UID:6446385@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260202T190000
@@ -325,7 +325,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446386@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260209T190000
@@ -337,7 +337,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446388@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260223T190000
@@ -349,7 +349,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446389@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260302T190000
@@ -361,7 +361,7 @@ LOCATION:Nature Conservancy - Barton Creek Habitat Preserve Event Pavillion
 END:VEVENT
 BEGIN:VEVENT
 UID:6446390@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260309T190000
@@ -373,7 +373,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446391@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260316T000000
@@ -385,7 +385,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6446392@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260323T190000
@@ -397,7 +397,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446393@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260330T190000
@@ -409,7 +409,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446394@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260406T190000
@@ -421,7 +421,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446395@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260413T190000
@@ -433,7 +433,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446396@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260420T190000
@@ -445,7 +445,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446397@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260427T190000
@@ -457,7 +457,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446398@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260504T190000
@@ -469,7 +469,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446399@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260511T190000
@@ -481,7 +481,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446402@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250629T235431Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260601T190000
@@ -493,7 +493,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6446411@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T000530Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250808T180000
@@ -505,7 +505,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6446412@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T000703Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250813T000000
@@ -517,7 +517,7 @@ LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 UID:6446425@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T002724Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250811T190000
@@ -529,7 +529,7 @@ LOCATION:Lakeway Church - Fellowship Hall Room 208
 END:VEVENT
 BEGIN:VEVENT
 UID:6446427@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T003030Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250923T190000
@@ -541,7 +541,7 @@ LOCATION:Lakeway Church - Fellowship Hall Room 208
 END:VEVENT
 BEGIN:VEVENT
 UID:6446429@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T003257Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20251017T180000
@@ -553,7 +553,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6446437@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T004104Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250924T190000
@@ -565,7 +565,7 @@ LOCATION:All-Star Burgers @ Hill Country Galleria - 12921 Hill Country Blvd #105
 END:VEVENT
 BEGIN:VEVENT
 UID:6446438@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T004349Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250812T190000
@@ -577,7 +577,7 @@ LOCATION:Lakeway Church - Fellowship Hall Room 208
 END:VEVENT
 BEGIN:VEVENT
 UID:6446455@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T004636Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250920T070000
@@ -589,7 +589,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6446463@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T004913Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251020T190000
@@ -601,7 +601,7 @@ LOCATION:Lakeway Church - Fellowship Hall Room 208
 END:VEVENT
 BEGIN:VEVENT
 UID:6446465@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T005003Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251021T190000
@@ -613,7 +613,7 @@ LOCATION:Lakeway Church - Fellowship Hall Room 208
 END:VEVENT
 BEGIN:VEVENT
 UID:6446472@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T005154Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251025T073000
@@ -625,7 +625,7 @@ LOCATION:Lakeway Church Parking Lot
 END:VEVENT
 BEGIN:VEVENT
 UID:6446484@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T010136Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251127T000000
@@ -637,7 +637,7 @@ LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 UID:6446486@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T010241Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251031T000000
@@ -649,7 +649,7 @@ LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 UID:6446488@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T010420Z
 ORGANIZER:Brian Spears
 DTSTART;TZID=America/Chicago:20251114T180000
@@ -661,7 +661,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6446489@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T010542Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251117T190000
@@ -673,7 +673,7 @@ LOCATION:Lakeway Church - Fellowship Hall Room 208
 END:VEVENT
 BEGIN:VEVENT
 UID:6446491@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T010634Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251118T190000
@@ -685,7 +685,7 @@ LOCATION:Lakeway Church - Fellowship Hall Room 208
 END:VEVENT
 BEGIN:VEVENT
 UID:6446494@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T011007Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251227T090000
@@ -697,7 +697,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6446496@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T011140Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251216T190000
@@ -709,7 +709,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6446499@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T011316Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251215T190000
@@ -721,7 +721,7 @@ LOCATION:Lakeway Church - Fellowship Hall Room 208
 END:VEVENT
 BEGIN:VEVENT
 UID:6446501@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250630T011415Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251212T180000
@@ -733,7 +733,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6461751@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T030928Z
 ORGANIZER:Brian Spears
 DTSTART;TZID=America/Chicago:20260220T180000
@@ -745,7 +745,7 @@ LOCATION:Lost Pines Scout Reserve
 END:VEVENT
 BEGIN:VEVENT
 UID:6462050@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T194541Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250802T083000
@@ -757,7 +757,7 @@ LOCATION:Fickett Center
 END:VEVENT
 BEGIN:VEVENT
 UID:6462052@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T194817Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250809T083000
@@ -769,7 +769,7 @@ LOCATION:Rifle Range at Lost Pines Scout Reservation
 END:VEVENT
 BEGIN:VEVENT
 UID:6462108@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T201203Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250822T183000
@@ -781,7 +781,7 @@ LOCATION:Fickett Center
 END:VEVENT
 BEGIN:VEVENT
 UID:6462113@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T201505Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250823T083000
@@ -793,23 +793,19 @@ LOCATION:Fickett Center
 END:VEVENT
 BEGIN:VEVENT
 UID:6462116@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T201828Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250905T171500
 DTEND;TZID=America/Chicago:20250906T180000
 SUMMARY:Introduction to Outdoor Leader Training
-DESCRIPTION:BSA Introduction to Outdoor Leadership Skill Pamphlet&nbsp;\nCapitol Area Council Chisholm Trail District invites you to participate in the Scoutmaster Leader-Specific Training 
-Introduction to Outdoor Leader Skills
- (IOLS) on September 5th and 6th\, 2025.\nWorking as patrols\, IOLS presents adult leaders with the practical knowledge needed to help Scouts to learn outdoor skills. The skills presented will closely follow the Scouts BSA Handbook and rank advancement requirements. Skills from Tenderfoot to First Class are covered in this training.\nAlong with Scoutmaster Specifics (online)\, this course is required of all direct contact leaders registered in Scouts BSA Troops to be considered 
-trained
-.  This is a required training course for all Scoutmaster/Assistant Scoutmasters and the Online Training must be completed prior to taking IOLS.\nIn addition\, anyone who may be attending campouts regularly should consider taking this class. The training is designed to help all adult leaders regardless of experience level feel comfortable performing and supervising these skills with youth.&nbsp;\n
+DESCRIPTION:BSA Introduction to Outdoor Leadership Skill Pamphlet&nbsp;\nCapitol Area Council Chisholm Trail District invites you to participate in the Scoutmaster Leader-Specific Training \nIntroduction to Outdoor Leader Skills(IOLS) on September 5th and 6th\, 2025.\nWorking as patrols\, IOLS presents adult leaders with the practical knowledge needed to help Scouts to learn outdoor skills. The skills presented will closely follow the Scouts BSA Handbook and rank advancement requirements. Skills from Tenderfoot to First Class are covered in this training.\nAlong with Scoutmaster Specifics (online)\, this course is required of all direct contact leaders registered in Scouts BSA Troops to be considered \ntrained\n.  This is a required training course for all Scoutmaster/Assistant Scoutmasters and the Online Training must be completed prior to taking IOLS.\nIn addition\, anyone who may be attending campouts regularly should consider taking this class. The training is designed to help all adult leaders regardless of experience level feel comfortable performing and supervising these skills with youth.&nbsp;\n
 URL:https://advancements.scouting.org/calendar/event/6462116
 LOCATION:Palm Valley Lutheran Church\, 2500 E Palm Valley Blvd\, Round Rock\, TX 78665
 END:VEVENT
 BEGIN:VEVENT
 UID:6462120@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T202209Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250906T083000
@@ -821,7 +817,7 @@ LOCATION:Lost Pines Scout Reservation
 END:VEVENT
 BEGIN:VEVENT
 UID:6462124@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T202608Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250909T190000
@@ -833,7 +829,7 @@ LOCATION:Fickett Center
 END:VEVENT
 BEGIN:VEVENT
 UID:6462126@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T202816Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250910T190000
@@ -845,7 +841,7 @@ LOCATION:Fickett Center
 END:VEVENT
 BEGIN:VEVENT
 UID:6462132@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T203230Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250913T083000
@@ -857,7 +853,7 @@ LOCATION:Lost Pines Scout Reservation
 END:VEVENT
 BEGIN:VEVENT
 UID:6462135@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T203535Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250917T190000
@@ -869,7 +865,7 @@ LOCATION:Council Service Center
 END:VEVENT
 BEGIN:VEVENT
 UID:6462137@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T203842Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250919T190000
@@ -881,7 +877,7 @@ LOCATION:Lost Pines Scout Reservation
 END:VEVENT
 BEGIN:VEVENT
 UID:6462151@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T204236Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250927T080000
@@ -893,7 +889,7 @@ LOCATION:Lake Hills Church\, 11521 Bee Caves Rd\, Austin\, TX 78738\, USA
 END:VEVENT
 BEGIN:VEVENT
 UID:6462180@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T210451Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251003T180000
@@ -905,7 +901,7 @@ LOCATION:Lost Pines Scout Reservation
 END:VEVENT
 BEGIN:VEVENT
 UID:6462208@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T211805Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251017T180000
@@ -917,7 +913,7 @@ LOCATION:Lost Pines Scout Reservation
 END:VEVENT
 BEGIN:VEVENT
 UID:6462237@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T213024Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251004T083000
@@ -929,21 +925,19 @@ LOCATION:Fickett Center
 END:VEVENT
 BEGIN:VEVENT
 UID:6462251@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T213348Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251114T180000
 DTEND;TZID=America/Chicago:20251115T200000
 SUMMARY:Mega Training Fall 2025 - IOLS
-DESCRIPTION:MEGA Training offers you the chance to take required training courses like Scoutmaster Leader-Specific Training\, Introduction to Outdoor Leader Skills (IOLS)\, or Basic Adult Leader Outdoor Orientation (BALOO). There are also optional courses\, including Chaplain Training\, Swimming and Water Rescue\, Paddle Craft Safety\, and more.\nScouts BSA Introduction to Outdoor Leadership Skills\nWorking as patrols\, this hands-on course provides adult leaders the practical outdoor skills they need to lead Scouts in the out-of-doors. Upon completion\, leaders should feel comfortable teaching Scouts the basic skills required to obtain the First Class rank. Along with Scoutmaster Specifics (online)\, this course is required of all direct contact leaders registered in Scouts BSA Troops to be considered 
-trained
-.&nbsp;\nClass Info\nFriday Check-in: 6pm at Lindsay Lodge. Please make sure you eat dinner on the way in to Lost Pines.\nSaturday: departure between 5pm and 8pm depending on length of discussions.\nAs a requirement for the class\, you must complete the Online Training prior to taking the class.\nPaperwork Needs\nBSA camping rules: All adults staying overnight must have a current Youth Protection Training certificate and must be registered with BSA in an adult fee-required position effective September 1\, 2023.\nFor every participant: bring a paper copy of your BSA Medical form parts A&amp;B.\nFor every participant: bring a paper copy of your BSA registration for every participant.&nbsp;\nFor all adults: bring a paper copy proof of unexpired YPT and your current BSA Leader Registration.\nSee https://www.scouting.org/health-and-safety/gss/gss01/ for more information.\n
+DESCRIPTION:MEGA Training offers you the chance to take required training courses like Scoutmaster Leader-Specific Training\, Introduction to Outdoor Leader Skills (IOLS)\, or Basic Adult Leader Outdoor Orientation (BALOO). There are also optional courses\, including Chaplain Training\, Swimming and Water Rescue\, Paddle Craft Safety\, and more.\nScouts BSA Introduction to Outdoor Leadership Skills\nWorking as patrols\, this hands-on course provides adult leaders the practical outdoor skills they need to lead Scouts in the out-of-doors. Upon completion\, leaders should feel comfortable teaching Scouts the basic skills required to obtain the First Class rank. Along with Scoutmaster Specifics (online)\, this course is required of all direct contact leaders registered in Scouts BSA Troops to be considered \ntrained\n.&nbsp;\nClass Info\nFriday Check-in: 6pm at Lindsay Lodge. Please make sure you eat dinner on the way in to Lost Pines.\nSaturday: departure between 5pm and 8pm depending on length of discussions.\nAs a requirement for the class\, you must complete the Online Training prior to taking the class.\nPaperwork Needs\nBSA camping rules: All adults staying overnight must have a current Youth Protection Training certificate and must be registered with BSA in an adult fee-required position effective September 1\, 2023.\nFor every participant: bring a paper copy of your BSA Medical form parts A&amp;B.\nFor every participant: bring a paper copy of your BSA registration for every participant.&nbsp;\nFor all adults: bring a paper copy proof of unexpired YPT and your current BSA Leader Registration.\nSee https://www.scouting.org/health-and-safety/gss/gss01/ for more information.\n
 URL:https://advancements.scouting.org/calendar/event/6462251
 LOCATION:Lindsay Lodget @ Lost Pines Scout Reservation
 END:VEVENT
 BEGIN:VEVENT
 UID:6462258@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T213832Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251115T080000
@@ -955,7 +949,7 @@ LOCATION:Lost Pines Scout Reservation
 END:VEVENT
 BEGIN:VEVENT
 UID:6462347@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T221119Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250901T000000
@@ -967,7 +961,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6462354@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T221454Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251122T000000
@@ -979,7 +973,7 @@ LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 UID:6462365@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T222020Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251206T180000
@@ -991,7 +985,7 @@ LOCATION:Smiling V Scout Ranch\, 250 CR 286 Spur\, Liberty Hill\, TX 78642
 END:VEVENT
 BEGIN:VEVENT
 UID:6462372@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T222357Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251227T080000
@@ -1003,7 +997,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6462389@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T223141Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260102T090000
@@ -1015,7 +1009,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6462399@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T223801Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251225T000000
@@ -1027,7 +1021,7 @@ LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 UID:6462401@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T223948Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260119T000000
@@ -1039,7 +1033,7 @@ LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 UID:6462404@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T224150Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260131T100000
@@ -1051,21 +1045,19 @@ LOCATION:Lakeway Church Chapel
 END:VEVENT
 BEGIN:VEVENT
 UID:6462409@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T224443Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260124T080000
 DTEND;TZID=America/Chicago:20260124T160000
 SUMMARY:University of Scouting 2026
-DESCRIPTION:University of Scouting&nbsp;\nCome for just the morning or all day\, to focus on serious topics or just to have fun learning new skills! The University of Scouting offers more than 100 classes in different 
-colleges\,
- with dozens of new classes each year. Sign up for anything that interests you\, from Weird Science to Dutch Oven Cooking to Skits &amp; Songs\, and more! You will find training on topics not covered anywhere else at any other event in our council. We focus on topics you can take back to your unit and use right away; practical information that will help you improve your program or the organization itself.\nOur University of Scouting is being held:\n&nbsp;&nbsp;&nbsp;&nbsp;Date:               Saturday\, January 24\, 2026  8:00am to 4:00pm\n&nbsp;&nbsp;&nbsp;&nbsp;Location:       Concordia University\n&nbsp;&nbsp;&nbsp;Cost:               $20  Lunch is optional for an additional fee\n
+DESCRIPTION:University of Scouting&nbsp;\nCome for just the morning or all day\, to focus on serious topics or just to have fun learning new skills! The University of Scouting offers more than 100 classes in different \ncolleges\,with dozens of new classes each year. Sign up for anything that interests you\, from Weird Science to Dutch Oven Cooking to Skits &amp; Songs\, and more! You will find training on topics not covered anywhere else at any other event in our council. We focus on topics you can take back to your unit and use right away; practical information that will help you improve your program or the organization itself.\nOur University of Scouting is being held:\n&nbsp;&nbsp;&nbsp;&nbsp;Date:               Saturday\, January 24\, 2026  8:00am to 4:00pm\n&nbsp;&nbsp;&nbsp;&nbsp;Location:       Concordia University\n&nbsp;&nbsp;&nbsp;Cost:               $20  Lunch is optional for an additional fee\n
 URL:https://advancements.scouting.org/calendar/event/6462409
 LOCATION:Concordia University\, 11400 Concordia University Dr Austin\, Texas 78726
 END:VEVENT
 BEGIN:VEVENT
 UID:6462412@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T224625Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260214T000000
@@ -1077,7 +1069,7 @@ LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 UID:6462414@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T224702Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260216T000000
@@ -1089,7 +1081,7 @@ LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 UID:6462416@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T224822Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260208T090000
@@ -1101,7 +1093,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6462420@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T225214Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260205T190000
@@ -1113,7 +1105,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:6462423@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T225833Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260212T113000
@@ -1125,7 +1117,7 @@ LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 UID:6462424@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T230646Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260224T190000
@@ -1137,7 +1129,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462425@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T231626Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260301T103000
@@ -1149,7 +1141,7 @@ LOCATION:Nature Conservancy - Barton Creek Habitat Preserve
 END:VEVENT
 BEGIN:VEVENT
 UID:6462426@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T231815Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260305T190000
@@ -1161,7 +1153,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:6462427@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T232007Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260312T190000
@@ -1173,7 +1165,7 @@ LOCATION:Westlake Hills Presbyterian Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6462453@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T232151Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260314T090000
@@ -1185,7 +1177,7 @@ LOCATION:Fickett Center
 END:VEVENT
 BEGIN:VEVENT
 UID:6462454@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T232245Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260314T130000
@@ -1197,7 +1189,7 @@ LOCATION:Fickett Center
 END:VEVENT
 BEGIN:VEVENT
 UID:6462457@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T232601Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260327T183000
@@ -1209,7 +1201,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6462458@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T232741Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260402T190000
@@ -1221,7 +1213,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:6462460@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T232840Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260403T000000
@@ -1233,7 +1225,7 @@ LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 UID:6462462@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T232925Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260405T000000
@@ -1245,7 +1237,7 @@ LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 UID:6462463@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T233047Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260409T190000
@@ -1257,7 +1249,7 @@ LOCATION:Westlake Hills Presbyterian Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6462464@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T233228Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260410T180000
@@ -1269,7 +1261,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6462481@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T234459Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260414T190000
@@ -1281,7 +1273,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6462482@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T234636Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260425T080000
@@ -1293,7 +1285,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6462488@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250712T235024Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260417T180000
@@ -1305,7 +1297,7 @@ LOCATION:Lost Pines Scout Reservation
 END:VEVENT
 BEGIN:VEVENT
 UID:6462520@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T001346Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260525T000000
@@ -1317,7 +1309,7 @@ LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 UID:6462521@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T001428Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260518T000000
@@ -1329,7 +1321,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6462522@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T001550Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260507T190000
@@ -1341,7 +1333,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:6462525@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T001826Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260514T190000
@@ -1353,7 +1345,7 @@ LOCATION:Westlake Hills Presbyterian Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6462526@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T002048Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260501T180000
@@ -1365,7 +1357,7 @@ LOCATION:Lost Pines Scout Reservation
 END:VEVENT
 BEGIN:VEVENT
 UID:6462527@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T002501Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260525T100000
@@ -1377,21 +1369,19 @@ LOCATION:Arbor Terrace Lakeway Assisted Living Center
 END:VEVENT
 BEGIN:VEVENT
 UID:6462531@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T003513Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260508T180000
 DTEND;TZID=America/Chicago:20260510T200000
 SUMMARY:Mega Training Spring 2026 - IOLS
-DESCRIPTION:MEGA Training offers you the chance to take required training courses like Scoutmaster Leader-Specific Training\, Introduction to Outdoor Leader Skills (IOLS)\, or Basic Adult Leader Outdoor Orientation (BALOO). There are also optional courses\, including Chaplain Training\, Swimming and Water Rescue\, Paddle Craft Safety\, and more.\nScouts BSA Introduction to Outdoor Leadership Skills\nWorking as patrols\, this hands-on course provides adult leaders the practical outdoor skills they need to lead Scouts in the out-of-doors. Upon completion\, leaders should feel comfortable teaching Scouts the basic skills required to obtain the First Class rank. Along with Scoutmaster Specifics (online)\, this course is required of all direct contact leaders registered in Scouts BSA Troops to be considered 
-trained
-.&nbsp;\nClass Info\nFriday Check-in: 6pm at Lindsay Lodge. Please make sure you eat dinner on the way in to Lost Pines.\nSaturday: departure between 5pm and 8pm depending on length of discussions.\nAs a requirement for the class\, you must complete the Online Training prior to taking the class.\n&nbsp;Paperwork Needs\nBSA camping rules: All adults staying overnight must have a current Youth Protection Training certificate and must be registered with BSA in an adult fee-required position effective September 1\, 2023.\nFor every participant: bring a paper copy of your BSA Medical form parts A&amp;B.\nFor every participant: bring a paper copy of your BSA registration for every participant.&nbsp;\nFor all adults: bring a paper copy proof of unexpired YPT and your current BSA Leader Registration.\nSee https://www.scouting.org/health-and-safety/gss/gss01/ for more information.\n
+DESCRIPTION:MEGA Training offers you the chance to take required training courses like Scoutmaster Leader-Specific Training\, Introduction to Outdoor Leader Skills (IOLS)\, or Basic Adult Leader Outdoor Orientation (BALOO). There are also optional courses\, including Chaplain Training\, Swimming and Water Rescue\, Paddle Craft Safety\, and more.\nScouts BSA Introduction to Outdoor Leadership Skills\nWorking as patrols\, this hands-on course provides adult leaders the practical outdoor skills they need to lead Scouts in the out-of-doors. Upon completion\, leaders should feel comfortable teaching Scouts the basic skills required to obtain the First Class rank. Along with Scoutmaster Specifics (online)\, this course is required of all direct contact leaders registered in Scouts BSA Troops to be considered \ntrained\n.&nbsp;\nClass Info\nFriday Check-in: 6pm at Lindsay Lodge. Please make sure you eat dinner on the way in to Lost Pines.\nSaturday: departure between 5pm and 8pm depending on length of discussions.\nAs a requirement for the class\, you must complete the Online Training prior to taking the class.\n&nbsp;Paperwork Needs\nBSA camping rules: All adults staying overnight must have a current Youth Protection Training certificate and must be registered with BSA in an adult fee-required position effective September 1\, 2023.\nFor every participant: bring a paper copy of your BSA Medical form parts A&amp;B.\nFor every participant: bring a paper copy of your BSA registration for every participant.&nbsp;\nFor all adults: bring a paper copy proof of unexpired YPT and your current BSA Leader Registration.\nSee https://www.scouting.org/health-and-safety/gss/gss01/ for more information.\n
 URL:https://advancements.scouting.org/calendar/event/6462531
 LOCATION:Lost Pines Scout Reservation
 END:VEVENT
 BEGIN:VEVENT
 UID:6462537@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T003839Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260509T100000
@@ -1403,7 +1393,7 @@ LOCATION:Lost Pines Scout Reservation
 END:VEVENT
 BEGIN:VEVENT
 UID:6462541@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T004005Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260510T100000
@@ -1415,7 +1405,7 @@ LOCATION:Lost Pines Scout Reservation
 END:VEVENT
 BEGIN:VEVENT
 UID:6462543@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T004205Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260510T000000
@@ -1427,7 +1417,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6462546@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T004435Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260604T190000
@@ -1439,7 +1429,7 @@ LOCATION:Zoom
 END:VEVENT
 BEGIN:VEVENT
 UID:6462548@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T004557Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260611T190000
@@ -1451,7 +1441,7 @@ LOCATION:Westlake Hills Presbyterian Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6462561@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T005011Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260608T080000
@@ -1463,7 +1453,7 @@ LOCATION:Camp Tom Wooten
 END:VEVENT
 BEGIN:VEVENT
 UID:6462562@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T005243Z
 ORGANIZER:Matthew Berger
 DTSTART;TZID=America/Chicago:20260607T000000
@@ -1475,7 +1465,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6462564@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T005445Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260628T000000
@@ -1487,23 +1477,19 @@ LOCATION:Seabase
 END:VEVENT
 BEGIN:VEVENT
 UID:6462569@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T005846Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260722T000000
 DTEND;TZID=America/Chicago:20260731T234500
 SUMMARY:2026 National Jamboree
-DESCRIPTION:The BSA National Jamboree is a gathering\, or jamboree\, of thousands of members of the Boy Scouts of America\, usually held every four years and organized by the National Council of the Boy Scouts of America.  Referred to as 
-the Jamboree
-\, 
-Jambo
-\, or NSJ\, Scouts from all over the nation and world have the opportunity to attend.\nThey are considered to be one of several unique experiences that the Boy Scouts of America offers.  The first jamboree was scheduled to be held in 1935 in Washington\, D.C. to celebrate the 25th anniversary of Scouting\, but was delayed two years after being cancelled due to a polio outbreak.  The 1937 jamboree in Washington attracted 25\,000 Scouts\, who camped around the Washington Monument and Tidal Basin.\nMinimum of 12 years of age on or before the first day of the Jamboree.\nDate:  July 22-31\, 2026\nFees:  $3\,000/participant (youth or adult)\nFees include:\nJamboree Admission\nRoundtrip Air Transportation to Charlotte\, NC.\nBus transportation to/from the Summit Bechtel Reserve\nShirts\, patches\, neckerchiefs\, etc.\nPreparation shakedowns\nMore...\nA payment schedule has been set up to pay participant fees - six $500 payments.\nAt registration - $500.00 before 04-30-2025\nFirst Payment - $500.00 due 06-30-2025\nSecond Payment - $500.00 due 08-31-2025\nThird Payment - $500.00 due 10-31-2025\nFourth Payment - $500.00 due 01-31-2026\nFifth Payment - $500.00 due 03-31-2026\nGo to the following Jamboree sites for more information:\nNational Scouting America site - https://jamboree.scouting.org\nCapitol Area Council site - https://www.bsacac.org/activities/jamborees/\nDeadline to register is October 31\, 2025!\n
+DESCRIPTION:The BSA National Jamboree is a gathering\, or jamboree\, of thousands of members of the Boy Scouts of America\, usually held every four years and organized by the National Council of the Boy Scouts of America.  Referred to as \nthe Jamboree\n\, \nJambo\n\, or NSJ\, Scouts from all over the nation and world have the opportunity to attend.\nThey are considered to be one of several unique experiences that the Boy Scouts of America offers.  The first jamboree was scheduled to be held in 1935 in Washington\, D.C. to celebrate the 25th anniversary of Scouting\, but was delayed two years after being cancelled due to a polio outbreak.  The 1937 jamboree in Washington attracted 25\,000 Scouts\, who camped around the Washington Monument and Tidal Basin.\nMinimum of 12 years of age on or before the first day of the Jamboree.\nDate:  July 22-31\, 2026\nFees:  $3\,000/participant (youth or adult)\nFees include:\nJamboree Admission\nRoundtrip Air Transportation to Charlotte\, NC.\nBus transportation to/from the Summit Bechtel Reserve\nShirts\, patches\, neckerchiefs\, etc.\nPreparation shakedowns\nMore...\nA payment schedule has been set up to pay participant fees - six $500 payments.\nAt registration - $500.00 before 04-30-2025\nFirst Payment - $500.00 due 06-30-2025\nSecond Payment - $500.00 due 08-31-2025\nThird Payment - $500.00 due 10-31-2025\nFourth Payment - $500.00 due 01-31-2026\nFifth Payment - $500.00 due 03-31-2026\nGo to the following Jamboree sites for more information:\nNational Scouting America site - https://jamboree.scouting.org\nCapitol Area Council site - https://www.bsacac.org/activities/jamborees/\nDeadline to register is October 31\, 2025!\n
 URL:https://advancements.scouting.org/calendar/event/6462569
 LOCATION:Summit Bechtel Reserve
 END:VEVENT
 BEGIN:VEVENT
 UID:6462572@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20260707T183000
@@ -1515,7 +1501,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462573@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260713T190000
@@ -1527,7 +1513,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462574@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260720T190000
@@ -1539,7 +1525,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462575@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260727T190000
@@ -1551,7 +1537,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462576@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260803T190000
@@ -1563,7 +1549,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462577@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260810T190000
@@ -1575,7 +1561,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462578@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260817T190000
@@ -1587,7 +1573,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462579@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260824T190000
@@ -1599,7 +1585,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462580@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260831T190000
@@ -1611,7 +1597,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462582@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260914T190000
@@ -1623,7 +1609,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462583@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260921T190000
@@ -1635,7 +1621,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462585@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20261005T190000
@@ -1647,7 +1633,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462586@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20261012T190000
@@ -1659,7 +1645,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462587@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20261019T190000
@@ -1671,7 +1657,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462589@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20261102T190000
@@ -1683,7 +1669,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462590@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20261109T190000
@@ -1695,7 +1681,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462592@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20261123T190000
@@ -1707,7 +1693,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462593@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20261130T190000
@@ -1719,7 +1705,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6462595@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250713T010224Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20261214T190000
@@ -1731,7 +1717,7 @@ LOCATION:Lakeway Church - Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6465005@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250714T174307Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250922T000000
@@ -1743,7 +1729,7 @@ LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 UID:6467426@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250715T223444Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250825T183000
@@ -1755,7 +1741,7 @@ LOCATION:Lakeway Church\, Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6467428@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250715T223548Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250818T190000
@@ -1767,7 +1753,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6467433@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250715T223708Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250811T183000
@@ -1779,7 +1765,7 @@ LOCATION:Lakeway Church\, Building C Rm 208
 END:VEVENT
 BEGIN:VEVENT
 UID:6467442@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250715T223857Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250908T183000
@@ -1791,7 +1777,7 @@ LOCATION:Lakeway Church\, Building A Rm 102
 END:VEVENT
 BEGIN:VEVENT
 UID:6467447@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250715T224113Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251006T183000
@@ -1803,7 +1789,7 @@ LOCATION:Lakeway Church\, Building C Rm. 205
 END:VEVENT
 BEGIN:VEVENT
 UID:6467449@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250715T224228Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251027T183000
@@ -1815,7 +1801,7 @@ LOCATION:Lakeway Church\, Building C\, Rm. 208
 END:VEVENT
 BEGIN:VEVENT
 UID:6467457@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250715T224404Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251208T183000
@@ -1827,7 +1813,7 @@ LOCATION:Lakeway Church\, Building C Rm. 208
 END:VEVENT
 BEGIN:VEVENT
 UID:6467460@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250715T224508Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260112T183000
@@ -1839,7 +1825,7 @@ LOCATION:Lakeway Church\, Building C Rm. 208
 END:VEVENT
 BEGIN:VEVENT
 UID:6467472@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250715T225159Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260202T183000
@@ -1851,7 +1837,7 @@ LOCATION:Lakeway Church\, Building C Rm. 205
 END:VEVENT
 BEGIN:VEVENT
 UID:6467480@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250715T225355Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260207T150000
@@ -1863,7 +1849,7 @@ LOCATION:Rough Hollow Pavillion\, 901 Highlands Blvd.\, Lakeway\, TX 78738
 END:VEVENT
 BEGIN:VEVENT
 UID:6467486@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250715T225534Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260302T183000
@@ -1875,7 +1861,7 @@ LOCATION:Lakeway Church\, Building C Rm. 205
 END:VEVENT
 BEGIN:VEVENT
 UID:6467489@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250715T225649Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260309T183000
@@ -1887,7 +1873,7 @@ LOCATION:Lakeway Church\, Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6467490@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250715T225807Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260406T183000
@@ -1899,7 +1885,7 @@ LOCATION:Lakeway Church\, Building C Rm. 205
 END:VEVENT
 BEGIN:VEVENT
 UID:6467492@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250715T225910Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260504T183000
@@ -1911,7 +1897,7 @@ LOCATION:Lakeway Church\, Building C Rm. 205
 END:VEVENT
 BEGIN:VEVENT
 UID:6467495@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250715T230037Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260518T183000
@@ -1923,7 +1909,7 @@ LOCATION:Lakeway Church Large Parking Lot & Fellowship Hall (in case of rain)
 END:VEVENT
 BEGIN:VEVENT
 UID:6470632@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250717T231821Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251108T100000
@@ -1935,7 +1921,7 @@ LOCATION:Circuit of the Americas\, 9201 Circuit of the Americas Blvd.\, Del Vall
 END:VEVENT
 BEGIN:VEVENT
 UID:6485659@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250727T141932Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20250823T090000
@@ -1947,7 +1933,7 @@ LOCATION:Lakeway City Park - Lower Level
 END:VEVENT
 BEGIN:VEVENT
 UID:6488749@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250728T172352Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20250818T180000
@@ -1959,7 +1945,7 @@ LOCATION:Lakeway Church Room 208
 END:VEVENT
 BEGIN:VEVENT
 UID:6488845@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250728T182604Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20250816T093000
@@ -1971,7 +1957,7 @@ LOCATION:Lakeway City Park - Lower Level
 END:VEVENT
 BEGIN:VEVENT
 UID:6489399@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250728T212826Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20250913T093000
@@ -1983,7 +1969,7 @@ LOCATION:Lakeway City Park - Lower Level
 END:VEVENT
 BEGIN:VEVENT
 UID:6489554@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250728T213918Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20251004T093000
@@ -1995,7 +1981,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6490108@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250729T003258Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20251027T180000
@@ -2007,7 +1993,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6490120@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250729T004200Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20251109T090000
@@ -2019,7 +2005,7 @@ LOCATION:Hamilton Greenbelt 1173 Lohmans Crossing Rd
 END:VEVENT
 BEGIN:VEVENT
 UID:6535575@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250813T000337Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250816T080000
@@ -2031,7 +2017,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6535979@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250813T011418Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20250928T100000
@@ -2043,7 +2029,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6598963@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250831T144959Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20251014T173000
@@ -2055,7 +2041,7 @@ LOCATION:Sportsman's Finest
 END:VEVENT
 BEGIN:VEVENT
 UID:6598966@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250831T145255Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20251007T173000
@@ -2067,7 +2053,7 @@ LOCATION:Sportsman's Finest
 END:VEVENT
 BEGIN:VEVENT
 UID:6621814@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250906T230925Z
 ORGANIZER:Brian Spears
 DTSTART;TZID=America/Chicago:20260606T000000
@@ -2079,7 +2065,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6670568@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250925T003732Z
 ORGANIZER:Matthew Berger
 DTSTART;TZID=America/Chicago:20250927T080000
@@ -2091,7 +2077,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6670571@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20250925T004339Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260123T180000
@@ -2103,21 +2089,19 @@ LOCATION:Nature Conservancy Barton Creek Preserve
 END:VEVENT
 BEGIN:VEVENT
 UID:6682665@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20251005T235850Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20251013T173000
 DTEND;TZID=America/Chicago:20251013T193000
 SUMMARY:Fly Casting Clinic Austin Orr, Elevate Fly Casting
-DESCRIPTION:Austin Orr from Elevate Fly Casting will host a clinic for Scouts and adults on the art of fly casting.\nIn this session\, we will practice the overhead cast and roll cast techniques.  We will supply all the gear and you are advised to bring clear glasses for protection if you have some.  We will have a few available otherwise.\nWe will prioritize the training of the Scouts working on the Fly Fishing Merit badge.  Each Scout will have the opportunity to complete requirement 5: 
-Demonstrate the ability to cast a fly 30 feet consistently and accurately using both overhead and roll cast techniques.
-\nI need 3-4 adult volunteers to help manage the session with Mr. Orr.\n
+DESCRIPTION:Austin Orr from Elevate Fly Casting will host a clinic for Scouts and adults on the art of fly casting.\nIn this session\, we will practice the overhead cast and roll cast techniques.  We will supply all the gear and you are advised to bring clear glasses for protection if you have some.  We will have a few available otherwise.\nWe will prioritize the training of the Scouts working on the Fly Fishing Merit badge.  Each Scout will have the opportunity to complete requirement 5: \nDemonstrate the ability to cast a fly 30 feet consistently and accurately using both overhead and roll cast techniques.\n\nI need 3-4 adult volunteers to help manage the session with Mr. Orr.\n
 URL:https://advancements.scouting.org/calendar/event/6682665
 LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6688695@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20251010T130807Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20251023T173000
@@ -2129,7 +2113,7 @@ LOCATION:Sportsman's Finest
 END:VEVENT
 BEGIN:VEVENT
 UID:6731776@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20251106T013647Z
 ORGANIZER:Matthew Berger
 DTSTART;TZID=America/Chicago:20251108T080000
@@ -2141,21 +2125,19 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6750832@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20251119T014344Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20251201T180000
 DTEND;TZID=America/Chicago:20251201T190000
 SUMMARY:TTFC:  Second Class 6a-e
-DESCRIPTION:We will be covering Second Class Requirement 6: First Aid and Emergency Preparedness\nI am looking for a FULLY PREPARED Star Scout who wants to get signed off on Life requirement 6\na.	Demonstrate first aid for the following:\no	Object in the eye\no	Bite of a warm-blooded animal\no	Puncture wounds from a splinter\, nail\, and fishhook\no	Serious burns (partial thickness\, or second-degree)\no	Heat exhaustion\no	Shock\no	Heatstroke\, dehydration\, hypothermia\, and hyperventilation\nb.	Show what to do for 
-hurry
- cases of stopped breathing\, stroke\, severe bleeding\, and ingested poisoning.\nc.	Tell what you can do while on a campout or hike to prevent or reduce the occurrence of the injuries listed in Second Class requirements 6a and 6b.\nd.	Explain what to do in case of accidents that require emergency response in the home and backcountry. Explain what constitutes an emergency and what information you will need to provide to a responder.\ne.	Tell how you should respond if you come upon the scene of a vehicular accident.\n\n\n
+DESCRIPTION:We will be covering Second Class Requirement 6: First Aid and Emergency Preparedness\nI am looking for a FULLY PREPARED Star Scout who wants to get signed off on Life requirement 6\na.	Demonstrate first aid for the following:\no	Object in the eye\no	Bite of a warm-blooded animal\no	Puncture wounds from a splinter\, nail\, and fishhook\no	Serious burns (partial thickness\, or second-degree)\no	Heat exhaustion\no	Shock\no	Heatstroke\, dehydration\, hypothermia\, and hyperventilation\nb.	Show what to do for \nhurrycases of stopped breathing\, stroke\, severe bleeding\, and ingested poisoning.\nc.	Tell what you can do while on a campout or hike to prevent or reduce the occurrence of the injuries listed in Second Class requirements 6a and 6b.\nd.	Explain what to do in case of accidents that require emergency response in the home and backcountry. Explain what constitutes an emergency and what information you will need to provide to a responder.\ne.	Tell how you should respond if you come upon the scene of a vehicular accident.\n\n\n
 URL:https://advancements.scouting.org/calendar/event/6750832
 LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6757048@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20251124T144012Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251206T090000
@@ -2167,7 +2149,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6769272@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20251205T202916Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20251220T100000
@@ -2179,7 +2161,7 @@ LOCATION:Lakeway Elementary
 END:VEVENT
 BEGIN:VEVENT
 UID:6782173@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20251216T014905Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20251215T190000
@@ -2191,7 +2173,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6789506@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20251226T153348Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20260323T180000
@@ -2203,7 +2185,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6789508@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20251226T162105Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20260202T180000
@@ -2215,7 +2197,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6789517@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20251226T162951Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20260309T180000
@@ -2227,7 +2209,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6789519@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20251226T163239Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20260323T180000
@@ -2239,7 +2221,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6789522@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20251226T163648Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20260406T180000
@@ -2251,7 +2233,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6789526@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20251226T164132Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20260418T100000
@@ -2263,7 +2245,7 @@ LOCATION:Lakeway City Park - Lower Level
 END:VEVENT
 BEGIN:VEVENT
 UID:6789528@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20251226T164401Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20260427T180000
@@ -2275,7 +2257,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6789531@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20251226T164813Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20260511T180000
@@ -2287,7 +2269,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6800508@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260105T034428Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260107T170000
@@ -2299,7 +2281,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6806959@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260107T023108Z
 ORGANIZER:George Popa
 DTSTART;TZID=America/Chicago:20260110T080000
@@ -2311,7 +2293,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6816275@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260112T044855Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260112T190000
@@ -2323,7 +2305,7 @@ LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 UID:6831900@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260121T143248Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260127T190000
@@ -2335,7 +2317,7 @@ LOCATION:Zoom Meeting
 END:VEVENT
 BEGIN:VEVENT
 UID:6837979@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260126T191132Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260127T180000
@@ -2347,7 +2329,7 @@ LOCATION:ZOOM Meeting
 END:VEVENT
 BEGIN:VEVENT
 UID:6839926@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260128T012236Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260221T153000
@@ -2359,7 +2341,7 @@ LOCATION:Travis Methodist Church
 END:VEVENT
 BEGIN:VEVENT
 UID:6852558@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260205T232003Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20260209T180000
@@ -2371,7 +2353,7 @@ LOCATION:Lakeway Church Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6892309@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260309T023447Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260331T190000
@@ -2383,7 +2365,7 @@ LOCATION:Lakeway Church Fellowship Hall
 END:VEVENT
 BEGIN:VEVENT
 UID:6897254@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260312T001934Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260426T100000
@@ -2395,7 +2377,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:6898331@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260313T003207Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260411T210000
@@ -2407,7 +2389,7 @@ LOCATION:Smilin' V Scout Ranch (250 County Rd 286 Spur\, Liberty Hill\, TX 78642
 END:VEVENT
 BEGIN:VEVENT
 UID:6913204@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260331T004834Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260516T130000
@@ -2419,7 +2401,7 @@ LOCATION:Nitro Swim Center
 END:VEVENT
 BEGIN:VEVENT
 UID:6931598@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260419T220854Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260518T190000
@@ -2431,7 +2413,7 @@ LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 UID:6931600@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260419T220938Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260519T190000
@@ -2443,7 +2425,7 @@ LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 UID:6931602@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260419T221110Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260525T190000
@@ -2455,7 +2437,7 @@ LOCATION:None
 END:VEVENT
 BEGIN:VEVENT
 UID:6934109@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260421T205859Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20260509T083000
@@ -2467,7 +2449,7 @@ LOCATION:Milton Reimers Ranch Park; River Trails Parking Area
 END:VEVENT
 BEGIN:VEVENT
 UID:6938496@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260427T164352Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260507T180000
@@ -2479,7 +2461,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7026728@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260718T160236Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20260817T180000
@@ -2491,7 +2473,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7026734@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260718T161015Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20260829T090000
@@ -2503,7 +2485,7 @@ LOCATION:Lakeway City Park - Lower Level
 END:VEVENT
 BEGIN:VEVENT
 UID:7026735@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260718T161425Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20261003T090000
@@ -2515,7 +2497,7 @@ LOCATION:Lakeway City Park - Lower Level
 END:VEVENT
 BEGIN:VEVENT
 UID:7026737@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260718T161643Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20261017T080000
@@ -2527,7 +2509,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7027438@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260718T232554Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20261023T000000
@@ -2539,7 +2521,7 @@ LOCATION:Enchanted Rock State Natural Area
 END:VEVENT
 BEGIN:VEVENT
 UID:7027440@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260718T232844Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20261113T000000
@@ -2551,7 +2533,7 @@ LOCATION:TrayBates/James Ezell/Matt Gomes lease off Hamilton Pool road (details 
 END:VEVENT
 BEGIN:VEVENT
 UID:7027450@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260718T233829Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20261204T000000
@@ -2563,7 +2545,7 @@ LOCATION:Location was not specified
 END:VEVENT
 BEGIN:VEVENT
 UID:7027828@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260719T140615Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20260926T080000
@@ -2575,7 +2557,7 @@ LOCATION:Lake Hills Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7027838@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260719T141744Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20270219T000000
@@ -2587,7 +2569,7 @@ LOCATION:Lost Pines Scout Reservation
 END:VEVENT
 BEGIN:VEVENT
 UID:7027841@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260719T142209Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20270305T000000
@@ -2599,7 +2581,7 @@ LOCATION:Nature Conservancy
 END:VEVENT
 BEGIN:VEVENT
 UID:7027845@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260719T142538Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20270409T000000
@@ -2611,7 +2593,7 @@ LOCATION:TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:7027852@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260719T143716Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20260831T180000
@@ -2623,7 +2605,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7027907@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260719T144323Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20261130T180000
@@ -2635,7 +2617,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7027914@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260719T145740Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20260914T180000
@@ -2647,7 +2629,7 @@ LOCATION:TBD
 END:VEVENT
 BEGIN:VEVENT
 UID:7027923@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260719T150729Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20261109T180000
@@ -2659,7 +2641,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7027924@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260719T151431Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20261010T090000
@@ -2671,7 +2653,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7027927@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260719T152039Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20261214T180000
@@ -2683,7 +2665,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7028030@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260719T155343Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260804T190000
@@ -2695,7 +2677,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7034341@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260723T003945Z
 ORGANIZER:Nicolas Sfeir
 DTSTART;TZID=America/Chicago:20260731T120000
@@ -2707,7 +2689,7 @@ LOCATION:Nitro Swim Center
 END:VEVENT
 BEGIN:VEVENT
 UID:7038137@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260725T212321Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260925T000000
@@ -2719,7 +2701,7 @@ LOCATION:Colorado Bend State Park
 END:VEVENT
 BEGIN:VEVENT
 UID:7040148@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T205355Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20270111T190000
@@ -2731,7 +2713,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040162@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T205603Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20270125T190000
@@ -2743,7 +2725,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040168@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T205829Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20270201T190000
@@ -2755,7 +2737,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040172@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T205946Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20270208T190000
@@ -2767,7 +2749,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040227@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T210244Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20270222T190000
@@ -2779,7 +2761,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040233@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T210401Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20270223T190000
@@ -2791,7 +2773,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040247@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T210545Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20270301T190000
@@ -2803,7 +2785,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040257@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T210928Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20270308T190000
@@ -2815,7 +2797,7 @@ LOCATION:Barton Creek Habitat Preserve Pavillion (Nature Conservancy entrance ne
 END:VEVENT
 BEGIN:VEVENT
 UID:7040282@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T211312Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20270322T180000
@@ -2827,7 +2809,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040283@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T211434Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20270322T190000
@@ -2839,7 +2821,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040297@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T211713Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20270329T180000
@@ -2851,7 +2833,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040299@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T211825Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20270329T190000
@@ -2863,7 +2845,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040346@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T212150Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20270405T180000
@@ -2875,7 +2857,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040359@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T212503Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20270405T190000
@@ -2887,7 +2869,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040364@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T212644Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20270412T190000
@@ -2899,7 +2881,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040369@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T212759Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20270413T190000
@@ -2911,7 +2893,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040372@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T213117Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20270419T190000
@@ -2923,7 +2905,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040374@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T213208Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20270426T190000
@@ -2935,7 +2917,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040378@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T213524Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20270503T190000
@@ -2947,7 +2929,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040379@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T213630Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20270510T190000
@@ -2959,7 +2941,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040382@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T213736Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20270517T190000
@@ -2971,7 +2953,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040384@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T213836Z
 ORGANIZER:Trevor Montgomery
 DTSTART;TZID=America/Chicago:20270607T190000
@@ -2983,7 +2965,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040420@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T215748Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260928T190000
@@ -2995,7 +2977,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040422@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T215918Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260929T190000
@@ -3007,7 +2989,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040439@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T220934Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20261026T190000
@@ -3019,7 +3001,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040442@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T221114Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20261027T190000
@@ -3031,7 +3013,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040446@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T221306Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20261116T190000
@@ -3043,7 +3025,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040449@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T221436Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20261117T190000
@@ -3055,7 +3037,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040457@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T221540Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20261207T190000
@@ -3067,7 +3049,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7040462@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260726T221650Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20261208T190000
@@ -3079,7 +3061,7 @@ LOCATION:Lakeway Church
 END:VEVENT
 BEGIN:VEVENT
 UID:7052328@advancements.scouting.org
-DTSTAMP:20260802T012305Z
+DTSTAMP:20260802T021501Z
 CREATED:20260731T160946Z
 ORGANIZER:Tracy Bates
 DTSTART;TZID=America/Chicago:20260808T083000
