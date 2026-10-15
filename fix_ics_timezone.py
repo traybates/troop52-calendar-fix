@@ -97,14 +97,39 @@ def repair_line_folding(text: str) -> str:
     return "\r\n".join(out) + "\r\n"
 
 
+BROWSER_HEADERS = {
+    # Some servers answer automated requests (like GitHub's) with 403/404 but
+    # serve the same URL normally to a browser, so identify as one.
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+    ),
+    "Accept": "text/calendar, text/plain, */*",
+}
+
+
 def fetch_source(source: str) -> str:
     """Read source ICS from a URL or local file path."""
+    source = source.strip()  # a stray space/newline in the secret causes 404s
     if source.startswith("http://") or source.startswith("https://"):
         if requests is None:
             raise RuntimeError("requests library not installed")
-        resp = requests.get(source, timeout=30)
-        resp.raise_for_status()
-        return resp.text
+        import time
+        last_err = None
+        for attempt in range(3):
+            try:
+                resp = requests.get(source, headers=BROWSER_HEADERS, timeout=30)
+                resp.raise_for_status()
+                return resp.text
+            except requests.exceptions.RequestException as err:
+                last_err = err
+                print(f"Fetch attempt {attempt + 1} failed: "
+                      f"{type(err).__name__} (status "
+                      f"{getattr(getattr(err, 'response', None), 'status_code', 'n/a')}; "
+                      f"URL length {len(source)} chars, starts with "
+                      f"{source[:8]!r})")
+                time.sleep(3)
+        raise last_err
     with open(source, "r", encoding="utf-8") as f:
         return f.read()
 
